@@ -1,0 +1,73 @@
+Sure, here are 10 multiple-choice questions (MCQs) about Java and Data Structures & Algorithms (DSA):
+
+1. **Java:** Which keyword is used to create a subclass in Java?
+   - A) `parent`
+   - B) `extends`
+   - C) `sub`
+   - D) `inherits`
+
+2. **DSA:** What data structure follows the Last-In-First-Out (LIFO) principle?
+   - A) Queue
+   - B) Linked List
+   - C) Stack
+   - D) Tree
+
+3. **Java:** Which access modifier makes a class member accessible only within its own package?
+   - A) `public`
+   - B) `protected`
+   - C) `default`
+   - D) `private`
+
+4. **DSA:** Which sorting algorithm has an average and worst-case time complexity of O(n log n)?
+   - A) Bubble Sort
+   - B) Insertion Sort
+   - C) Merge Sort
+   - D) Selection Sort
+
+5. **Java:** Which of the following is used to create an instance of a class in Java?
+   - A) `instanceof`
+   - B) `new`
+   - C) `create`
+   - D) `instance`
+
+6. **DSA:** In a binary search tree, which traversal visits the nodes in ascending order?
+   - A) Preorder
+   - B) Inorder
+   - C) Postorder
+   - D) Level order
+
+7. **Java:** Which keyword is used to declare a constant variable in Java?
+   - A) `var`
+   - B) `final`
+   - C) `const`
+   - D) `static`
+
+8. **DSA:** Which data structure is suitable for implementing a FIFO (First-In-First-Out) order?
+   - A) Stack
+   - B) Queue
+   - C) Heap
+   - D) Hash Table
+
+9. **Java:** What is the purpose of the `static` keyword in Java?
+   - A) It defines a constant value.
+   - B) It specifies that a method can be overridden.
+   - C) It indicates that a variable or method belongs to the class, not instances.
+   - D) It declares an abstract class.
+
+10. **DSA:** Which searching technique works by repeatedly dividing the search interval in half?
+    - A) Linear Search
+    - B) Depth-First Search
+    - C) Binary Search
+    - D) Breadth-First Search
+
+Answers:
+1. B) `extends`
+2. C) Stack
+3. C) `default`
+4. C) Merge Sort
+5. B) `new`
+6. B) Inorder
+7. B) `final`
+8. B) Queue
+9. C) It indicates that a variable or method belongs to the class, not instances.
+10. C) Binary Search
